@@ -16,6 +16,7 @@ See [Vite Configuration Reference](https://vite.dev/config/).
 npm install
 ```
 ## Project review
+https://github.com/J0HN526/Crypto-Price-Alerter/raw/main/assets/video/my-video.mp4" type="video/mp4
 <video width="600" controls>
   <source src="https://github.com/J0HN526/Crypto-Price-Alerter/raw/main/assets/video/my-video.mp4" type="video/mp4">
   Your browser does not support the video tag.
