@@ -15,7 +15,7 @@ See [Vite Configuration Reference](https://vite.dev/config/).
 ```sh
 npm install
 ```
-## Project review
+## Project review 预览图
 https://github.com/J0HN526/Crypto-Price-Alerter/blob/main/2024-12-15%2021-52-36.mkv
 [[https://github.com/J0HN526/Crypto-Price-Alerter/raw/main/assets/video/my-video.mp4" type="video/mp4
 <video width="600" controls>
